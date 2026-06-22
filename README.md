@@ -16,7 +16,7 @@ A fully functional cross-platform weather app that delivers real-time weather da
 
 | Home Screen | Weather Details | Forecast |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Forecast](screenshots/forecast.png) |
+| ![Home](screenshots/home.jpeg) | ![Details](screenshots/details.jpeg) | ![Forecast](screenshots/forecast.jpeg) |
 
 > 📸 *Add your screenshots to a `/screenshots` folder in the repo.*
 
