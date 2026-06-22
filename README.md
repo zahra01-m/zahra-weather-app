@@ -13,10 +13,20 @@ A fully functional cross-platform weather app that delivers real-time weather da
 ---
 
 ## 📱 Screenshots
-
-| Home Screen | Weather Details | Forecast |
-|---|---|---|
-| ![Home](screenshots/home.jpeg) | ![Details](screenshots/details.jpeg) | ![Forecast](screenshots/forecast.jpeg) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Home Screen</b></td>
+      <td align="center"><b>Weather Details</b></td>
+      <td align="center"><b>Forecast</b></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/home.jpeg" width="200" height="400" object-fit="cover"/></td>
+      <td><img src="screenshots/details.jpeg" width="200" height="400" object-fit="cover"/></td>
+      <td><img src="screenshots/forecast.jpeg" width="200" height="400" object-fit="cover"/></td>
+    </tr>
+  </table>
+</div>
 
 > 📸 *Add your screenshots to a `/screenshots` folder in the repo.*
 
